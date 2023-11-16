@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="00_spriing:war">
+    <output-path>$PROJECT_DIR$/00_spriing/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>00_spriing</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="00_spriing.war">
+      <element id="artifact" artifact-name="00_spriing:war exploded" />
+    </root>
+  </artifact>
+</component>

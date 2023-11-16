@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!--    scope="prototype" 是否为统一对象 du-->
+<!--    配置bean-->
+    <bean id="bookDao" name="dao" class="com.itheima.dao.impl.BookDaoImpl" scope="prototype"/>
+    <bean id="bookService"   name="service " class="com.itheima.service.impl.BookServiceImpl">
+<!--        配置service对dao的关系-->
+<!--        property表示配置当前bean的属性-->
+<!--        name表示配置那个具体属性-->
+<!--        ref表示参照那个bean -->
+        <property name="bookDao" ref="dao"/>
+
+    </bean>
+
+
+</beans>

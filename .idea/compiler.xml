@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring_22_aop_advice_data" />
+        <module name="maven_04_dao" />
+        <module name="spring_24_case_transfer" />
+        <module name="00spring" />
+        <module name="spring_15_spring_mybaties" />
+        <module name="springmvc_10_exception" />
+        <module name="springmvc_01_quickstart" />
+        <module name="springmvc_06_rest" />
+        <module name="spring" />
+        <module name="springmvc_02_bean_load" />
+        <module name="spring_17_aop_demo" />
+        <module name="maven_03_pojo" />
+        <module name="springmvc_01" />
+        <module name="spring_23_case_handle_password" />
+        <module name="spring_25_case_transfer_log" />
+        <module name="maven_02_ssm" />
+        <module name="spring_01_quickstart" />
+        <module name="spring_08_di_collection" />
+        <module name="springmvc_09_result" />
+        <module name="springmvc_03_request_mapping" />
+        <module name="springmvc_08_ssm (1) (com.itheima)" />
+        <module name="springmvc_05_response" />
+        <module name="spring_18_aop_quickstart" />
+        <module name="springmvc_07_rest_case" />
+        <module name="spring_02_base_config" />
+        <module name="springmvc_12_interceptor" />
+        <module name="springmvc_08_ssm" />
+        <module name="spring_09_database" />
+        <module name="spring_21_case_interface_run_speed" />
+        <module name="spring_03_bean_instance" />
+        <module name="springmvc_11_pages" />
+        <module name="spring_04_bean_lifecycle" />
+        <module name="spring_10_batabase" />
+        <module name="springmvc_04_request_param" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="00_spriing" target="1.7" />
+      <module name="00_spring" target="1.8" />
+      <module name="00spring" target="1.8" />
+      <module name="01_spring" target="1.8" />
+      <module name="itheima_spring_mvc" target="1.5" />
+      <module name="maven_02_ssm" target="1.5" />
+      <module name="maven_03_pojo" target="1.5" />
+      <module name="maven_04_dao" target="1.5" />
+      <module name="spring_01_quickstart" target="1.5" />
+      <module name="spring_03_bean_instance" target="1.5" />
+      <module name="spring_04_bean_lifecycle" target="1.5" />
+      <module name="spring_08_di_collection" target="1.5" />
+      <module name="spring_17_aop_demo" target="1.5" />
+      <module name="spring_18_aop_quickstart" target="1.5" />
+      <module name="spring_21_case_interface_run_speed" target="1.5" />
+      <module name="spring_22_aop_advice_data" target="1.5" />
+      <module name="spring_23_case_handle_password" target="1.5" />
+      <module name="spring_24_case_transfer" target="1.5" />
+      <module name="spring_25_case_transfer_log" target="1.5" />
+      <module name="springmvc_01_quickstart" target="1.5" />
+      <module name="springmvc_02_bean_load" target="1.5" />
+      <module name="springmvc_03_request_mapping" target="1.5" />
+      <module name="springmvc_04_request_param" target="1.5" />
+      <module name="springmvc_05_response" target="1.5" />
+      <module name="springmvc_06_rest" target="1.5" />
+      <module name="springmvc_07_rest_case" target="1.5" />
+      <module name="springmvc_08_ssm (1) (com.itheima)" target="1.5" />
+      <module name="springmvc_09_result1" target="1.8" />
+      <module name="springmvc_11_pages1" target="1.8" />
+      <module name="springmvc_12_interceptor" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="00_spriing" options="" />
+      <module name="00_spring" options="-parameters" />
+      <module name="00spring" options="-parameters" />
+      <module name="01_spring" options="-parameters" />
+    </option>
+  </component>
+</project>

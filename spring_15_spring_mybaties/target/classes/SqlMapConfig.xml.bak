@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+<!--    加载连接对象-->
+    <properties resource="jdbc.properties"></properties>
+    <!--    起别名-->
+<!--    <typeAliases>-->
+<!--        <package name="com.luoli.pojo"/>-->
+<!--    </typeAliases>-->
+    <typeAliases>
+        <typeAlias type="com.lit.domain.Account" ></typeAlias>
+    </typeAliases>
+<!--    数据源环境-->
+    <environments default="mysql">
+        <environment id="mysql">
+            <transactionManager type="JDBC"></transactionManager>
+            <dataSource type="POOLED">
+                <property name="driver" value="${jdbc.driver}"/>
+                <property name="url" value="${jdbc.url}"/>
+                <property name="username" value="${jdbc.username}"/>
+                <property name="password" value="${jdbc.password}"/>
+            </dataSource>
+        </environment>
+    </environments>
+
+<!--    加载映射文件-->
+    <mappers>
+        <package name="com.lit.dao"/>
+    </mappers>
+
+
+</configuration>

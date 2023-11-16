@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/00_spriing" />
+    <file type="web" url="file://$PROJECT_DIR$/spring_09_database" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_01" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_08_ssm" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_09_result" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_10_exception" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_11_pages" />
+    <file type="web" url="file://$PROJECT_DIR$/../ssm学习资料/springboot+mybatisplus/02-springmvc/day01/源码/springmvc/springmvc_01_quickstart" />
+    <file type="web" url="file://$PROJECT_DIR$/../ssm学习资料/springboot+mybatisplus/02-springmvc/day01/源码/springmvc/springmvc_02_bean_load" />
+    <file type="web" url="file://$PROJECT_DIR$/../ssm学习资料/springboot+mybatisplus/02-springmvc/day01/源码/springmvc/springmvc_03_request_mapping" />
+    <file type="web" url="file://$PROJECT_DIR$/../ssm学习资料/springboot+mybatisplus/02-springmvc/day01/源码/springmvc/springmvc_04_request_param" />
+    <file type="web" url="file://$PROJECT_DIR$/../ssm学习资料/springboot+mybatisplus/02-springmvc/day01/源码/springmvc/springmvc_05_response" />
+    <file type="web" url="file://$PROJECT_DIR$/../ssm学习资料/springboot+mybatisplus/02-springmvc/day01/源码/springmvc/springmvc_06_rest" />
+    <file type="web" url="file://$PROJECT_DIR$/../ssm学习资料/springboot+mybatisplus/02-springmvc/day01/源码/springmvc/springmvc_07_rest_case" />
+    <file type="web" url="file://$PROJECT_DIR$/../ssm学习资料/springboot+mybatisplus/02-springmvc/day02/源码/springmvc/springmvc_08_ssm" />
+    <file type="web" url="file://$PROJECT_DIR$/../ssm学习资料/springboot+mybatisplus/02-springmvc/day02/源码/springmvc/springmvc_12_interceptor" />
+    <file type="web" url="file://$PROJECT_DIR$/../ssm学习资料/springboot+mybatisplus/03-maven高级/源码/maven/maven_01_parent/src/main/resources" />
+    <file type="web" url="file://$PROJECT_DIR$/../ssm学习资料/springboot+mybatisplus/03-maven高级/源码/maven/maven_02_ssm" />
+    <file type="web" url="file://$PROJECT_DIR$/../ssm学习资料/springboot+mybatisplus/第四天资料/案例/itheima_spring_mvc" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/01_spring/pom.xml" />
+        <option value="$PROJECT_DIR$/../ssm学习资料/01-spring/day01/代码/spring_01_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_02_base_config/pom.xml" />
+        <option value="$PROJECT_DIR$/../ssm学习资料/01-spring/day01/代码/spring_03_bean_instance/pom.xml" />
+        <option value="$PROJECT_DIR$/../ssm学习资料/01-spring/day01/代码/spring_04_bean_lifecycle/pom.xml" />
+        <option value="$PROJECT_DIR$/../ssm学习资料/01-spring/day01/代码/spring_08_di_collection/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_09_database/pom.xml" />
+        <option value="$PROJECT_DIR$/spring10_database/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_10_batabase/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_15_spring_mybaties/pom.xml" />
+        <option value="$PROJECT_DIR$/../ssm学习资料/01-spring/day03/代码/spring/spring_17_aop_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../ssm学习资料/01-spring/day03/代码/spring/spring_18_aop_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/../ssm学习资料/01-spring/day03/代码/spring/spring_21_case_interface_run_speed/pom.xml" />
+        <option value="$PROJECT_DIR$/../ssm学习资料/01-spring/day03/代码/spring/spring_22_aop_advice_data/pom.xml" />
+        <option value="$PROJECT_DIR$/../ssm学习资料/01-spring/day03/代码/spring/spring_23_case_handle_password/pom.xml" />
+        <option value="$PROJECT_DIR$/../ssm学习资料/01-spring/day03/代码/spring/spring_24_case_transfer/pom.xml" />
+        <option value="$PROJECT_DIR$/../ssm学习资料/01-spring/day03/代码/spring/spring_25_case_transfer_log/pom.xml" />
+        <option value="$PROJECT_DIR$/../ssm学习资料/springboot+mybatisplus/第四天资料/案例/itheima_spring_mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/../ssm学习资料/springboot+mybatisplus/02-springmvc/day01/源码/springmvc/springmvc_01_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc_01/pom.xml" />
+        <option value="$PROJECT_DIR$/../ssm学习资料/springboot+mybatisplus/02-springmvc/day01/源码/springmvc/springmvc_02_bean_load/pom.xml" />
+        <option value="$PROJECT_DIR$/../ssm学习资料/springboot+mybatisplus/02-springmvc/day01/源码/springmvc/springmvc_03_request_mapping/pom.xml" />
+        <option value="$PROJECT_DIR$/../ssm学习资料/springboot+mybatisplus/02-springmvc/day01/源码/springmvc/springmvc_04_request_param/pom.xml" />
+        <option value="$PROJECT_DIR$/../ssm学习资料/springboot+mybatisplus/02-springmvc/day01/源码/springmvc/springmvc_05_response/pom.xml" />
+        <option value="$PROJECT_DIR$/../ssm学习资料/springboot+mybatisplus/02-springmvc/day01/源码/springmvc/springmvc_06_rest/pom.xml" />
+        <option value="$PROJECT_DIR$/../ssm学习资料/springboot+mybatisplus/02-springmvc/day01/源码/springmvc/springmvc_07_rest_case/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc_08_ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/../ssm学习资料/springboot+mybatisplus/02-springmvc/day02/源码/springmvc/springmvc_08_ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc_09_result/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc_10_exception/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc_11_pages/pom.xml" />
+        <option value="$PROJECT_DIR$/../ssm学习资料/springboot+mybatisplus/02-springmvc/day02/源码/springmvc/springmvc_12_interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/../ssm学习资料/springboot+mybatisplus/03-maven高级/源码/maven/maven_04_dao/pom.xml" />
+        <option value="$PROJECT_DIR$/maven_01_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/../ssm学习资料/springboot+mybatisplus/03-maven高级/源码/maven/maven_02_ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/../ssm学习资料/springboot+mybatisplus/03-maven高级/源码/maven/maven_03_pojo/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/00_spring/pom.xml" />
+        <option value="$PROJECT_DIR$/00spring/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
